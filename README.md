@@ -10,7 +10,7 @@ Este repositório contém o projeto prático final da disciplina de **Estruturas
     *   Lucas Duarte
     *   Luan Galdino
     *   Danilo Bomfim
-*   **Turma:** `[Inserir Turma Aqui]`
+*   **Turma:** `[42SIF01N3A]`
 *   **Repositório:** [AV3-Estrutura-De-Dados-2026](https://github.com/eokinha/AV3-Estrutura-De-Dados-2026)
 
 ---
